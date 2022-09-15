@@ -32,8 +32,6 @@ background-attachment: fixed;
 }
 #navmain {
 
-
-
 	border-bottom-left-radius: 25px;
 	border-bottom-right-radius: 25px;
 	
@@ -108,6 +106,11 @@ color: #909ab7;
 
 }
 
+#aboutcard-corner {
+	background-color: rgba(0,0,0,0.1);
+
+}
+
 #card-text {
 
 	font-size: 1.3rem;
@@ -122,15 +125,15 @@ color: #909ab7;
 }
 #css-box {
 	
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.1);
 }
 #styling-box {
 	
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.1);
 }
 #bootstrap-box {
 	
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.1);
 }
 h1 {
 	margin-left: 10%;
@@ -144,7 +147,7 @@ h1 {
 }
 
 #contact-corner {
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.1);
 }
 
 
