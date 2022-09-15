@@ -68,6 +68,7 @@ font-size: 1.2rem;
 
 #nald {
 
+	margin-bottom: -13%;
 	margin-top: -3%;
 	font-family: 'Arial';
 	/*font-size: 4rem;*/
@@ -75,6 +76,14 @@ font-size: 1.2rem;
 	color: #ccd6f6;
 
 
+}
+
+#nald2 {
+	margin-top: -5%;
+	font-family: 'Arial';
+	/*font-size: 4rem;*/
+	font-weight: bolder;
+	color: #ccd6f6;
 }
 
 #help {
