@@ -1,0 +1,135 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	scroll-behavior: smooth;
+}
+
+/*Google Fonts*/
+
+#ibody {
+background-color: #0a192f;
+font-family: 'Lekton';
+background-attachment: fixed;
+
+
+}
+
+#aboutcard-corner {
+
+  border-radius: 50px;
+  background-color: #230303;
+	background-color: rgba(0,0,0,0.5);
+}
+
+#navmain {
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+	
+	background-color: #230303;
+	background-color: rgba(0,0,0,0.5);
+  
+  font-family: 'Cutive Mono';
+  font-size: 15px;
+
+}
+
+#navbarNav {
+	color: red;
+}
+
+.line1 {
+	background-color: #59e2c5;
+}
+
+#quote1 {
+	border-radius: 50px;
+	background-color: #230303;
+	
+	font-style: italic;
+	font-size: 1.2rem;
+	color: #8892b0;
+	
+}
+
+#hello1 {
+color: #59e2c5;
+font-size: 1.2rem;
+}
+
+#nald {
+
+	font-family: 'Arial';
+	font-size: 4rem;
+	font-weight: bolder;
+	color: #ccd6f6;
+
+}
+
+#help {
+
+	font-family: 'Arial';
+	font-size: 3rem;
+	font-weight: bolder;
+	color: #8892b0;
+}
+
+#describe{
+
+font-family: 'Arial';
+margin-right: 40rem;
+
+color: #909ab7;
+font-size: 1.5rem;
+}
+
+#aboutme {
+
+	margin-left: 20rem;
+	font-family: 'Arial';
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #ccd6f6;
+}
+
+
+
+#myprojects {
+
+	background-color: #230303;
+	background-color: rgba(0,0,0,0);
+}
+#css-box {
+	
+	background-color: rgba(0,0,0,0.5);
+}
+#styling-box {
+	
+	background-color: rgba(0,0,0,0.5);
+}
+#bootstrap-box {
+	
+	background-color: rgba(0,0,0,0.5);
+}
+h1 {
+	margin-left: 10%;
+	padding-top: 5%;
+	text-align: left;
+	color: #ccd6f6;
+	font-family: 'Robot Slab';
+}
+#pic-border {
+	border: 10px solid #fb1313;
+}
+
+#contact-corner {
+	background-color: rgba(0,0,0,0.5);
+}
+
+
+#foot1 {
+	background-color: #59e2c5;
+}
