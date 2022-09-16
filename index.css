@@ -8,7 +8,9 @@
 html {
 			scroll-behavior: smooth;
 		}
-
+body {
+  		font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+		}
 /*Google Fonts*/
 
 #ibody {
@@ -164,13 +166,34 @@ h1 {
 	font-family: 'Robot Slab';
 }
 #pic-border {
-	border: 10px solid #fb1313;
+	border: 50px solid #fb1313;
 }
 
 #contact-corner {
 	background-color: rgba(0,0,0,0.1);
 }
 
+#coninfo {
+
+	margin-top: 10%;
+	text-align: left;
+	margin-right: 15%;
+	font-size: 1.3rem;
+}
+
+#form1 {
+	background-color: rgba(0,0,0,0.1);
+	margin: auto;
+}
+
+.line2 {
+  border:none;
+  border-top:1px dashed #59e2c5;
+  width: 80%;
+  text-align: center;
+}
+
+}
 
 #foot1 {
 	background-color: #59e2c5;
