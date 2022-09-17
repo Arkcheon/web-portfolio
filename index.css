@@ -59,13 +59,30 @@ html {
 				color: #ccd6f6;
 			}
 
+
+@media screen and (max-width: 450px) {
+  #nald {
+			    font-size: 7.9vw;
+			    margin-bottom: -10%;
+			  }
+}
+
+@media screen and (max-width: 300px) {
+  #nald {
+			    font-size: 6.6vw;
+			    margin-bottom: -20%;
+
+			  }
+}
+
 #help {
 				margin-top: -7%;
 				font-family: 'Arial';
-				/*font-size: 3rem;*/
+				font-size:4vw;
 				font-weight: bold;
 				color: #8892b0;
 			}
+
 
 #describe{
 						font-family: 'Arial';
@@ -82,6 +99,20 @@ html {
 						font-weight: bold;
 						color: #59e2c5;
 					}
+
+@media screen and (max-width: 850px) {
+  #describe {
+    
+					    margin-top: -12%;
+					  }
+}
+
+@media only screen and (max-width: 450px) {
+  #describe {
+				    margin-top: -40%;
+				    margin-bottom: -100%;
+  					}
+}
 
 #photo {
 					margin-left: 10%;
@@ -154,6 +185,12 @@ h2 {
 			  width: 80%;
 			  text-align: center;
 			}
+
+/*@media only screen and (max-width: 420px) {
+section div  .reach-me {
+				    font-size: 1vw !important;
+  					}
+}*/
 
 /* Socmed Sticky container Start*/
 .sticky-icon {
