@@ -22,6 +22,40 @@ body {
 				background-attachment: fixed;
 			}
 
+@media screen and (max-width: 1150px) {
+body {
+			  
+			  background-image: url(./images/ipad10.png);
+			  background-size: cover;
+				background-size: 1150px;
+				background-color: #0a192f;
+				background-attachment: auto;
+			  }
+}
+
+@media screen and (max-width: 1026px) {
+body {
+			  
+			  background-image: url(./images/ipad12.png);
+			  background-size: cover;
+				background-size: 1026px;
+				background-color: #0a192f;
+				background-attachment: auto;
+			  }
+}
+
+@media screen and (max-width: 850px) {
+body {
+			  
+			  background-image: url(./images/ipad8.png);
+			  background-size: cover;
+				background-size: 850px;
+				background-color: #0a192f;
+				background-attachment: auto;
+			  }
+}
+
+
 @media screen and (max-width: 450px) {
 body {
 			  
