@@ -22,6 +22,16 @@ html {
 				background-attachment: fixed;
 			}
 
+@media screen and (max-width: 450px) {
+  #ibody {
+			  
+			  background-image: url(./images/arkbg.png);
+				background-size: 450px;
+				background-color: #0a192f;
+				background-attachment: fixed;
+			  }
+}
+
 #navmain {
 					border-bottom-left-radius: 25px;
 					border-bottom-right-radius: 25px;
