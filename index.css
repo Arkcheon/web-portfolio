@@ -28,7 +28,7 @@ html {
 			  background-image: url(./images/bgmobile.png);
 				background-size: 450px;
 				background-color: #0a192f;
-				background-attachment: fixed;
+				background-attachment: auto;
 			  }
 }
 
