@@ -42,6 +42,18 @@ body
 			  }
 
 }
+
+@media only screen and (max-width: 1024px) and (orientation: portrait){
+body
+				{
+			  
+			  background-image: url(./images/ipadpro12port.png);
+			  background-size: cover;
+				/*background-color: #0a192f;*/
+				background-attachment: fixed;
+			  }
+
+}
  
 
 @media screen and (max-width: 1150px) {
