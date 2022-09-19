@@ -22,7 +22,7 @@ body {
 				background-attachment: fixed;
 			}
 
-@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape){
+/*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape){
 body {
 			  
 			  background-image: url(./images/arkbg.png);
@@ -30,7 +30,19 @@ body {
 				background-color: #0a192f;
 				background-attachment: fixed;
 			  }
+}*/
+@media only screen and (min-width: 1366px) and (orientation: landscape){
+body
+				{
+			  
+			  background-image: url(./images/arkbg.png);
+			  background-size: cover;
+				background-color: #0a192f;
+				background-attachment: fixed;
+			  }
+
 }
+ 
 
 @media screen and (max-width: 1150px) {
 body {
